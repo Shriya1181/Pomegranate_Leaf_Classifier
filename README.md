@@ -5,6 +5,6 @@ Provided is a CNN model that takes the input of an image of a pomegranate leaf a
 
 ## Dataset
 The dataset the model is trained on consists of :<br>
-i) 88 Healthy images
-ii) 46 Fungal infected images
+i) 88 Healthy images<br>
+ii) 46 Fungal infected images<br>
 iii) 104 Bacterially infected images
